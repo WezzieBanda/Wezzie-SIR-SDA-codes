@@ -11,3 +11,5 @@ Parameter_Estimation_SDA - R code used to estimate posteririor distribution for 
 Wezzie_Data_Converter_ Converts data from daily infectious cases to individual infection and recovery times,this code inputs csv data file of First_Wave .SA1 and it outputs First_Wave_table1.csv.
 
 DSA_msmc.stan - Used to draw posterior distributions.
+
+Wezzie_Survival_Function- A python code  used to estimate survival function of susceptible individuals
